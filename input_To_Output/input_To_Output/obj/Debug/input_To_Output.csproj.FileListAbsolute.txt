@@ -1,0 +1,8 @@
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\bin\Debug\input_To_Output.exe.config
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\bin\Debug\input_To_Output.exe
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\bin\Debug\input_To_Output.pdb
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\obj\Debug\input_To_Output.csproj.AssemblyReference.cache
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\obj\Debug\input_To_Output.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\obj\Debug\input_To_Output.csproj.CoreCompileInputs.cache
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\obj\Debug\input_To_Output.exe
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 3 - input_To_Output\input_To_Output\input_To_Output\obj\Debug\input_To_Output.pdb
